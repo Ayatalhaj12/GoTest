@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "GoProject",
+    "slug": "GoProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.eska.GoProject",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCkyS7rMq-BZZTvjL1mIXoWcLhgiZDJ88k"}
+        },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
