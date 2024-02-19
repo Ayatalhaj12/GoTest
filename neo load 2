@@ -1,0 +1,4 @@
+# Email Configuration
+jmeter.reportgenerator.exporter.html.property.mail.host=
+jmeter.reportgenerator.exporter.html.property.mail.port=
+...
